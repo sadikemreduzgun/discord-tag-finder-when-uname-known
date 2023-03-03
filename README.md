@@ -1,7 +1,7 @@
 # discord-tag-finder-when-uname-known
 A selenium bot to find someone's tag when username is known. It tries to find the searched one by trying tags in entered tag interval one by one. 
 
-### This bot needs to know your e-mail and password. As you can see nothing suspicious is going on in the code.
+### ❗❗This bot needs to know your e-mail and password. As you can see nothing suspicious is going on in the code.
 
 ## Required packages:
 ```pip
@@ -30,3 +30,18 @@ wsproto==1.2.0
 ```pip
 pip install -r requirements.txt
 ```
+
+## To Run
+```python
+python main.py
+```
+or
+```python
+python3 main.py
+```
+or
+
+```python
+python3.exe ./main.py
+```
+
